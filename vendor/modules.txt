@@ -1,0 +1,8 @@
+# github.com/koczepeter/invoiceproxy-loggerfactory v0.0.0-20220822085334-100fa228cd4f
+## explicit; go 1.17
+github.com/koczepeter/invoiceproxy-loggerfactory
+# github.com/lib/pq v1.10.7
+## explicit; go 1.13
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram

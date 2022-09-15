@@ -1,0 +1,4 @@
+github.com/koczepeter/invoiceproxy-loggerfactory v0.0.0-20220822085334-100fa228cd4f h1:CUUBlQwXC6RgDIxcOYg0AGEaz4C8tjYEq1U70mG2Naw=
+github.com/koczepeter/invoiceproxy-loggerfactory v0.0.0-20220822085334-100fa228cd4f/go.mod h1:YuswJZNcV5pFnFNiXoY+EVXhxnwIcxZh4GkRoW/velo=
+github.com/lib/pq v1.10.7 h1:p7ZhMD+KsSRozJr34udlUrhboJwWAgCg34+/ZZNvZZw=
+github.com/lib/pq v1.10.7/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
