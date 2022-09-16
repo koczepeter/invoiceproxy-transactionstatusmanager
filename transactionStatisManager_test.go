@@ -26,7 +26,7 @@ func TestMain(m *testing.M) {
 		log.Fatal(err)
 	}
 
-	tsm.Init(db, appLog)
+	tsm.Initialize(db, appLog)
 	tsm.EnsureTableExists()
 	tsm.ClearTable()
 
