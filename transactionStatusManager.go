@@ -16,7 +16,7 @@ type TransactionStatusManager struct {
 
 //
 //
-func (tsm *TransactionStatusManager) Init(db *sql.DB, log *lf.Logger) {
+func (tsm *TransactionStatusManager) Initialize(db *sql.DB, log *lf.Logger) {
 
 	tsm.Log = log
 	tsm.DB = db
